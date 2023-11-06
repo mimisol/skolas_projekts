@@ -1,0 +1,56 @@
+.bgcolor-0{
+    background-color:rosybrown;
+}
+.bgcolor-1{
+    background-color:lightcoral;
+}
+.bgcolor-2{
+    background-color:lightpink;
+}
+.bgcolor-3{
+    background-color:lightsalmon;
+}
+
+.brovser{
+    list-style-type: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    float: center;
+    border: 2px solid black;
+    background: lightgoldenrodyellow;
+    width: fit-content;
+    height: fit-content;
+    padding: 15px;
+    border-radius: 7px;
+    margin: 20px;
+    text-align: center;
+    font-size: 4vw;
+
+}
+
+.linki{
+    background-color:antiquewhite;
+    width: fit-content;
+    height: fit-content;
+    border-radius: 15%;
+    padding-top: 0.15vw;
+    padding-bottom: 0.15vw;
+    padding-left: 1vw;
+    padding-right: 1vw;
+    text-align: right;
+}
+
+.linki:link{
+    color: darkslategray;
+    text-decoration: none;
+}
+
+.linki:visited{
+    color: darkslategray;
+    text-decoration: none;
+}
+
+.linki:hover{
+    color: palevioletred;
+    text-decoration: none;
+    background:lightpink;
+}
